@@ -11,7 +11,10 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 
 ## Example of Work:
 * Fitness Hall (version I)
-<img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256">
+<img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256"/>
+
+* Surf Report (FrontEnd Index Page)
+<img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/surfreport.gif" width="256"/>
 
 ## Status
 * 💻 I’m currently working on Arbortrary 🌳Project 
