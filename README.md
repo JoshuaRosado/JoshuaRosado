@@ -33,7 +33,7 @@ Link - https://github.com/JoshuaRosado/surf_report/tree/sync_wave
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/surf.webp" width="256"/>
 
 ## Collab Work:
-* All Fitness (Admin & Members Sides)
+* All Fitness (Admin & Members Website)
 Link - https://github.com/mhmmdkemal/AllFitness.git
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/all_fitness.webp" width="256"/>
 
