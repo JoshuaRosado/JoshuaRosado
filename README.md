@@ -14,7 +14,7 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256"/>
 
 * Surf Report (FrontEnd Index Page)
-<img src=" https://github.com/JoshuaRosado/JoshuaRosado/blob/main/surf.webp" width="256"/>
+<img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/surf.webp" width="256"/>
 
 ## Status
 * 💻 I’m currently working on Arbortrary 🌳Project 
