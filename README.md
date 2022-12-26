@@ -10,6 +10,7 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 * VSCODE / PYCHARM
 
 ## Example of Work:
+* Fitness Hall (version I)
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256">
 
 ## Status
