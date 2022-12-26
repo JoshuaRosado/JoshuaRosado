@@ -10,7 +10,7 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 * VSCODE / PYCHARM
 
 ## Example of Work:
-<img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256" background-color: "blue">
+<img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256">
 
 ## Status
 * 💻 I’m currently working on Arbortrary 🌳Project 
