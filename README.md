@@ -10,7 +10,7 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 * VSCODE / PYCHARM
 
 ## Example of Work:
-<img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256">
+<img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256" background-color: "blue">
 
 ## Status
 * 💻 I’m currently working on Arbortrary 🌳Project 
@@ -18,7 +18,7 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 * 👥 I’m looking to collaborate on Projects as a FrontEnd Engineer 
 *📲 How to reach me: joshua06rosado@gmail.com 
 
-##Stats
+## Stats :
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaRosado)](https://github.com/anuraghazra/github-readme-stats)
 
 
