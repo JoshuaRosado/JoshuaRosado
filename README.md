@@ -10,7 +10,7 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 * VSCODE / PYCHARM
 
 ## Example of Work:
-<img=""https://giphy.com/gifs/fitness-website-fitnesshall-mrh6tffsBZiAM571t6""   width=" 256 "/>
+<img="<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/mrh6tffsBZiAM571t6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fitness-website-fitnesshall-mrh6tffsBZiAM571t6">via GIPHY</a></p>"   width=" 256 "/>
 - 💻 I’m currently working on Arbortrary 🌳Project 
 - 🧠 I’m currently learning AJAX, APIs, DJANGO. Next I want to start learning React.
 - 👥 I’m looking to collaborate on Projects as a FrontEnd Engineer 
