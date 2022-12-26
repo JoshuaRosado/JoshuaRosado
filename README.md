@@ -41,10 +41,10 @@ Link - https://github.com/mhmmdkemal/AllFitness.git
 
 
 ## Status
-* 💻 I’m currently working on Arbortrary 🌳Project 
+* 💻 I’m currently working on a Python 🌳Project 
 * 🧠 I’m currently learning AJAX, APIs, DJANGO. Next I want to start learning React.
 * 👥 I’m looking to collaborate on Projects as a FrontEnd Engineer 
-* 📲 How to reach me: joshua06rosado@gmail.com 
+* 📲 How to reach me: Email - joshua06rosado@gmail.com  Discord - joshua06rosado#6354 
 
 
 ## Stats :
