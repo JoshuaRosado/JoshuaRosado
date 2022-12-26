@@ -22,6 +22,8 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 * 👥 I’m looking to collaborate on Projects as a FrontEnd Engineer 
 * 📲 How to reach me: joshua06rosado@gmail.com 
 
+## Visits :
+[! (https://github.com/sagar-viradiya/sagar-viradiya/blob/master/README.md)
 ## Stats :
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaRosado)](https://github.com/anuraghazra/github-readme-stats)
 
