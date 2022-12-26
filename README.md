@@ -3,7 +3,8 @@ Hi there 🤙🏽, My name is Joshua and I am a Full Stack Developer
 I do Full Stack Applications using the language of Python and Workframe of Flask. I really enjoy the FrontEnd of projects, playing with HTML, CSS, Bootstrap and JavaScript making it look clean and different. My next step is to learn React and focus more on the FrontEnd. Working on something that will change somebody's lifestyle in a positive way is my passion.
 
 ## Skills & Experience:
-* HTML / CSS / JavaScript
+* HTML / CSS
+* ![JavaScript](https://github.com/JoshuaRosado/JoshuaRosado/blob/main/javascript-original.svg)
 * PYTHON
 * BOOTSTRAP
 * BALSAMIQ
