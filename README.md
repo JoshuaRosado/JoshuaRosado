@@ -20,7 +20,7 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 * 💻 I’m currently working on Arbortrary 🌳Project 
 * 🧠 I’m currently learning AJAX, APIs, DJANGO. Next I want to start learning React.
 * 👥 I’m looking to collaborate on Projects as a FrontEnd Engineer 
-*📲 How to reach me: joshua06rosado@gmail.com 
+* 📲 How to reach me: joshua06rosado@gmail.com 
 
 ## Stats :
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaRosado)](https://github.com/anuraghazra/github-readme-stats)
