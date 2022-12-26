@@ -2,15 +2,26 @@
 Hi there 🤙🏽, My name is Joshua and I am a Full Stack Developer
 I do Full Stack Applications using the language of Python and Workframe of Flask. I really enjoy the FrontEnd of projects, playing with HTML, CSS, Bootstrap and JavaScript making it look clean and different. My next step is to learn React and focus more on the FrontEnd. Working on something that will change somebody's lifestyle in a positive way is my passion.
 
-## Skills & Experience:
-*   <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/html5-original-wordmark.svg" width="20"/> HTML 
+## Skills & Experience
+### Languages:
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/python-original.svg" width="20"/> Python
+### FrontEnd Dev:
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/html5-original-wordmark.svg" width="20"/> HTML 
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/css3-original-wordmark.svg" width="20"/> CSS
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/javascript-original.svg" width="20"/> JavaScript
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/python-original.svg" width="20"/> Python
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/bootstrap-plain-wordmark.svg" width="20"/> Bootstrap
+### Database:
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="20"/> MySQL
+### Wireframes:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/Balsamiq-logo-resized.jpg" width="20"/> Balsamiq
+### Code Editors:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" width="20"/> VS Code
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/pycharm.png" width="20"/> PyCharm
+
+### Framework:
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/bootstrap-plain-wordmark.svg" width="20"/> Bootstrap
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/pocoo_flask-icon.svg" width="256"/>
+
+### Version Control
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/git-scm-icon.svg" width="20"/> Git
 
 ## Example of Work:
