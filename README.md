@@ -10,7 +10,7 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/css3-original-wordmark.svg" width="20"/> CSS
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/javascript-original.svg" width="20"/> JavaScript
 ### Database:
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="20"/> MySQL
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="30"/> MySQL
 ### Wireframes:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/Balsamiq-logo-resized.jpg" width="20"/> Balsamiq
 ### Code Editors:
@@ -19,7 +19,7 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 
 ### Framework:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/bootstrap-plain-wordmark.svg" width="20"/> Bootstrap
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/pocoo_flask-icon.svg" width="256"/>
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/pocoo_flask-icon.svg" width="20"/>
 
 ### Version Control
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/git-scm-icon.svg" width="20"/> Git
