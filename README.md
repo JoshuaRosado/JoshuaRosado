@@ -4,7 +4,7 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 
 ## Skills & Experience:
 * HTML / CSS
-* ![JavaScript](https://github.com/JoshuaRosado/JoshuaRosado/blob/main/javascript-original.svg)
+* <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/javascript-original.svg" width="200"/>
 * PYTHON
 * BOOTSTRAP
 * BALSAMIQ
