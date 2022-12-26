@@ -27,7 +27,7 @@ I do Full Stack Applications using Python. I mostly enjoy the FrontEnd of projec
 ## Example of Work:
 * Fitness Hall (version I) 
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256"/>
-Link - https://github.com/JoshuaRosado/fitness_hall.git
+Link - https://github.com/JoshuaRosado/fitness_hall.git 
 * Surf Report (FrontEnd Index Page)
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/surf.webp" width="256"/>
 Link - https://github.com/JoshuaRosado/surf_report/tree/sync_wave
