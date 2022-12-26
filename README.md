@@ -4,25 +4,25 @@ I do Full Stack Applications using the language of Python and Workframe of Flask
 
 ## Skills & Experience
 ### Languages:
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/python-original.svg" width="20"/> Python
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/python-original.svg" width="25"/> Python
 ### FrontEnd Dev:
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/html5-original-wordmark.svg" width="20"/> HTML 
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/css3-original-wordmark.svg" width="20"/> CSS
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/javascript-original.svg" width="20"/> JavaScript
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/html5-original-wordmark.svg" width="25"/> HTML 
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/css3-original-wordmark.svg" width="25"/> CSS
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/javascript-original.svg" width="25"/> JavaScript
 ### Database:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="30"/> MySQL
 ### Wireframes:
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/Balsamiq-logo-resized.jpg" width="20"/> Balsamiq
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/Balsamiq-logo-resized.jpg" width="25"/> Balsamiq
 ### Code Editors:
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" width="20"/> VS Code
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/pycharm.png" width="20"/> PyCharm
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" width="25"/> VS Code
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/pycharm.png" width="25"/> PyCharm
 
 ### Framework:
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/bootstrap-plain-wordmark.svg" width="20"/> Bootstrap
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/pocoo_flask-icon.svg" width="20"/>
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/bootstrap-plain-wordmark.svg" width="25"/> Bootstrap
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/pocoo_flask-icon.svg" width="25"/> Flask
 
 ### Version Control
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/git-scm-icon.svg" width="20"/> Git
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/git-scm-icon.svg" width="25"/> Git
 
 ## Example of Work:
 * Fitness Hall (version I)
