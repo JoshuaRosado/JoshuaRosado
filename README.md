@@ -45,13 +45,13 @@ Link - https://github.com/mhmmdkemal/AllFitness.git
 * 🧠 I’m currently learning AJAX, APIs, DJANGO. Next I want to start learning React.
 * 👥 I’m looking to collaborate on Projects as a FrontEnd Engineer 
 * 📲 How to reach me: 
-##### Email
+##### Email:
 joshua06rosado@gmail.com  
 
-##### Linkedin
+##### Linkedin:
 http://www.linkedin.com/in/joshua-rosado-olivencia
 
-##### Discord
+##### Discord:
 joshua06rosado#6354
 
 
