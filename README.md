@@ -6,7 +6,7 @@ I do Full Stack Applications using Python. I mostly enjoy the FrontEnd of projec
 ### Languages:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/python-original.svg" width="25"/> Python
 ### FrontEnd Dev:
-*  <img align="center" src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/html5-original-wordmark.svg" width="25"/> HTML 
+*  <img align="right" src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/html5-original-wordmark.svg" width="25"/> HTML 
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/css3-original-wordmark.svg" width="25"/> CSS
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/javascript-original.svg" width="25"/> JavaScript
 ### Database:
