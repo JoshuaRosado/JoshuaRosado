@@ -33,6 +33,11 @@ I do Full Stack Applications using Python. I mostly enjoy the FrontEnd of projec
 Link - https://github.com/JoshuaRosado/surf_report/tree/sync_wave
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/surf.webp" width="256"/>
 
+* Jumping Koopas (Simple Game using HTML, CSS and JavaScript)
+Link - https://github.com/JoshuaRosado/jumping_koopas
+<img src="https://github.com/JoshuaRosado/jumping_koopas/blob/sync_wave/jumping_koopas.gif" width="256"/>
+
+
 ## Collab Work:
 * All Fitness (Admin & Members Website)
 Link - https://github.com/mhmmdkemal/AllFitness.git
