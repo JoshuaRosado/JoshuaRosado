@@ -30,7 +30,7 @@ I do Full Stack Applications using Python. I mostly enjoy the FrontEnd of projec
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256"/>
 
 * Live Cartoon Nature Picture "HTML and CSS" 
-  Link - 
+  Link - https://github.com/JoshuaRosado/live_cartoon_nature
   <img src="https://github.com/JoshuaRosado/live_cartoon_nature/blob/sync_wave/live_cartoon_nature.gif" width="256px"/>
 
 * Surf Report (FrontEnd Index Page) "HTML and CSS"
@@ -51,7 +51,7 @@ Link - https://github.com/mhmmdkemal/AllFitness.git
 
 ## Status
 * 💻 I’m currently working on a Python 🌳Project 
-* 🧠 I’m currently learning AJAX, APIs, DJANGO. Next I want to start learning React.
+* 🧠 I’m currently learning AJAX, Node.js, JQuery,  APIs, DJANGO. Next I'm aiming to learn WebGL, Three.js and React.
 * 👥 I’m looking to collaborate on Projects as a FrontEnd Engineer 
 * 📲 How to reach me: 
 ##### Email:
