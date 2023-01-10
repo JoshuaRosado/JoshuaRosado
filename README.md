@@ -31,7 +31,7 @@ I do Full Stack Applications using Python. I mostly enjoy the FrontEnd of projec
 
 * Live Cartoon Nature Picture "HTML and CSS" 
   Link - https://github.com/JoshuaRosado/live_cartoon_nature
-  <img src="https://github.com/JoshuaRosado/live_cartoon_nature/blob/sync_wave/live_cartoon_nature.gif" width="256px"/>
+<img src="https://github.com/JoshuaRosado/live_cartoon_nature/blob/sync_wave/live_cartoon_nature.gif" width="256px"/>
 
 * Surf Report (FrontEnd Index Page) "HTML and CSS"
 Link - https://github.com/JoshuaRosado/surf_report/tree/sync_wave
