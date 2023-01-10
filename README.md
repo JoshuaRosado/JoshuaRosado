@@ -25,21 +25,25 @@ I do Full Stack Applications using Python. I mostly enjoy the FrontEnd of projec
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/git-scm-icon.svg" width="25"/> Git
 
 ## Example of Work:
-* Fitness Hall (version I)
+* Fitness Hall (version I) "Full Stack Python"
   Link - https://github.com/JoshuaRosado/fitness_hall.git 
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256"/>
 
-* Surf Report (FrontEnd Index Page)
+* Live Cartoon Nature Picture "HTML and CSS" 
+  Link - 
+  <img src="https://github.com/JoshuaRosado/live_cartoon_nature/blob/sync_wave/live_cartoon_nature.gif" width="256px"/>
+
+* Surf Report (FrontEnd Index Page) "HTML and CSS"
 Link - https://github.com/JoshuaRosado/surf_report/tree/sync_wave
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/surf.webp" width="256"/>
 
-* Jumping Koopas (Simple Game using HTML, CSS and JavaScript)
+* Jumping Koopas (Simple Game) "HTML, CSS and JavaScript"
 Link - https://github.com/JoshuaRosado/jumping_koopas
 <img src="https://github.com/JoshuaRosado/jumping_koopas/blob/sync_wave/jumping_koopas.gif" width="256"/>
 
 
 ## Collab Work:
-* All Fitness (Admin & Members Website)
+* All Fitness (Admin & Members Website) "Full Stack Python"
 Link - https://github.com/mhmmdkemal/AllFitness.git
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/all_fitness.webp" width="256"/>
 
