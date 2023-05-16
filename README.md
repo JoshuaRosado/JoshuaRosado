@@ -51,7 +51,7 @@ Link - https://github.com/mhmmdkemal/AllFitness.git
 
 ## Status
 * 💻 I’m currently working on a Python 🌳Project 
-* 🧠 I’m currently learning AJAX, Node.js, JQuery,  APIs, DJANGO. Next I'm aiming to learn WebGL, Three.js and React.
+* 🧠 I’m currently learning AJAX, Node.js, JQuery,  APIs, DJANGO.
 * 👥 I’m looking to collaborate on Projects as a FrontEnd Engineer 
 * 📲 How to reach me: 
 ##### Email:
