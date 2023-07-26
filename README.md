@@ -42,11 +42,6 @@ Link - https://github.com/JoshuaRosado/jumping_koopas
 <img src="https://github.com/JoshuaRosado/jumping_koopas/blob/sync_wave/jumping_koopas.gif" width="256"/>
 
 
-## Collab Work:
-* All Fitness (Admin & Members Website) "Full Stack Python"
-Link - https://github.com/mhmmdkemal/AllFitness.git
-<img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/all_fitness.webp" width="256"/>
-
 
 
 ## Status
