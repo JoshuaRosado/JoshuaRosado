@@ -1,6 +1,7 @@
 # Joshua Rosado Olivencia
-Welcome! 🤙🏽, My name is Joshua and I am a Full Stack Developer
-I do Full Stack Applications using Python. I mostly enjoy the FrontEnd of projects, playing with HTML, CSS and JavaScript making it look clean and different. My next step is to learn more in depth of Python. Working on something that will change somebody's lifestyle in a positive way is my passion.
+Welcome! 🤙🏽, My name is Joshua and I am a Software Developer
+I build websites using Python. I mostly enjoy the FrontEnd of projects, playing with HTML, CSS and JavaScript making it look clean and different.
+I consider CSS be my area of comfort. When it comes to the BackEnd Python is what makes me challenge myself beyond my limits and I truly enjoy that feeling. 
 
 ## Skills & Experience 
 ### Languages:
