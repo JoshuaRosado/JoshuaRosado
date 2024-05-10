@@ -46,8 +46,8 @@ Link - https://github.com/JoshuaRosado/jumping_koopas
 
 
 ## Status
-* 💻 I’m currently working on a Python 🌳Project 
-* 🧠 I’m currently learning AJAX, Node.js, JQuery,  APIs, DJANGO.
+* 💻 I’m currently working on a website project named "Matcha Verde" using Flask. 
+* 🧠 I’m currently learning APIs, DJANGO.
 * 👥 I’m looking to collaborate on Projects as a FrontEnd Engineer 
 * 📲 How to reach me: 
 ##### Email:
@@ -65,4 +65,5 @@ joshua06rosado#6354
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joshua-rosado-olivencia/)  
+
 
