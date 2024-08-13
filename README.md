@@ -1,8 +1,22 @@
 # Joshua Rosado Olivencia
-Welcome! 🤙🏽, My name is Joshua and I am a Software Developer
-I build websites using Python. I mostly enjoy the FrontEnd of projects, playing with HTML, CSS and JavaScript making it look clean and different.
-I consider CSS be my area of comfort. When it comes to the BackEnd Python is what makes me challenge myself beyond my limits and I truly enjoy that feeling. 
+Welcome! / Bienvenidos!
+My name is Joshua and I am a Software Developer
+I build websites using Python with Flask. I enjoy playing a lot with CSS. 
+Building, helping and supporting others with my experience and skills is always a great time for me.
 
+## Status
+* 💻 I’m currently working on a website project named "Matcha Verde" using Flask. 
+* 🧠 I’m currently learning iOS Development.
+* 👥 I’m looking to collaborate on Projects as a iOS Developer 
+* 📲 How to reach me: 
+##### Email:
+joshua06rosado@gmail.com  
+
+##### Linkedin:
+http://www.linkedin.com/in/joshua-rosado-olivencia
+
+##### Discord:
+joshua06rosado#6354
 ## Skills & Experience 
 ### Languages:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/python-original.svg" width="25"/> Python
@@ -25,7 +39,7 @@ I consider CSS be my area of comfort. When it comes to the BackEnd Python is wha
 ### Version Control
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/git-scm-icon.svg" width="25"/> Git
 
-## Example of Work:
+## Example of Web Development Work:
 * Fitness Hall (version I) "Full Stack Python"
   Link - https://github.com/JoshuaRosado/fitness_hall.git 
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256"/>
@@ -44,20 +58,6 @@ Link - https://github.com/JoshuaRosado/jumping_koopas
 
 
 
-
-## Status
-* 💻 I’m currently working on a website project named "Matcha Verde" using Flask. 
-* 🧠 I’m currently learning APIs, DJANGO.
-* 👥 I’m looking to collaborate on Projects as a FrontEnd Engineer 
-* 📲 How to reach me: 
-##### Email:
-joshua06rosado@gmail.com  
-
-##### Linkedin:
-http://www.linkedin.com/in/joshua-rosado-olivencia
-
-##### Discord:
-joshua06rosado#6354
 
 
 ## Stats :
