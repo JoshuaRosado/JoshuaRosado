@@ -1,8 +1,8 @@
 # Joshua Rosado Olivencia
 Welcome! / Bienvenidos!
-My name is Joshua and I am a Software Developer
-I build websites using Python with Flask. I enjoy playing a lot with CSS. 
-Building, helping and supporting others with my experience and skills is always a great time for me.
+My name is Joshua and I am a iOS Developer
+I look for a way to translate an idea into an app.
+
 
 ## Status
 * 💻 I’m currently working on a website project named "Matcha Verde" using Flask. 
