@@ -1,7 +1,7 @@
 # Joshua Rosado Olivencia
 Welcome! / Bienvenidos!
 My name is Joshua and I am a iOS Developer
-I look for a way to translate an idea into an app.
+I look for a way to translate ideas into apps.
 
 
 ## Status
