@@ -5,7 +5,7 @@ I look for a way to translate ideas into apps.
 
 
 ## Status
-* 💻 I’m currently working on a website project named "Matcha Verde" using Flask. 
+* 💻 I’m currently working on a edutainment app project. 
 * 🧠 I’m currently learning iOS Development.
 * 👥 I’m looking to collaborate on Projects as a iOS Developer 
 * 📲 How to reach me: 
