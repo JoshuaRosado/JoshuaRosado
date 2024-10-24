@@ -5,8 +5,8 @@ I look for a way to translate ideas into apps.
 
 
 ## Status
-* 💻 I’m currently working on a edutainment app project. 
 * 🧠 I’m currently learning iOS Development.
+* 💻 I’m currently working on a educational app project. 
 * 👥 I’m looking to collaborate on Projects as a iOS Developer 
 * 📲 How to reach me: 
 ##### Email:
@@ -43,10 +43,6 @@ joshua06rosado#6354
 * Fitness Hall (version I) "Full Stack Python"
   Link - https://github.com/JoshuaRosado/fitness_hall.git 
 <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/gif.webp" width="256"/>
-
-* Live Cartoon Nature Picture "HTML and CSS" 
-  Link - https://github.com/JoshuaRosado/live_cartoon_nature
-<img src="https://github.com/JoshuaRosado/live_cartoon_nature/blob/sync_wave/live_cartoon_nature.gif" width="256px"/>
 
 
 
