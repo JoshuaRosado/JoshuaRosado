@@ -31,7 +31,7 @@ joshua06rosado#6354
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-html-120.png" width="100"/> HTML 
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-css-192.png" width="100"/> CSS
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-javascript-192.png" width="100"/> JavaScript
-*  
+  
 ### Database:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="100"/> MySQL
 
