@@ -23,22 +23,21 @@ joshua06rosado#6354
 * <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/python-original.svg" width="25"/> Python
 ### FrontEnd Dev:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/html5-original-wordmark.svg" width="25"/> HTML 
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/css3-original-wordmark.svg" width="25"/> CSS
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/javascript-original.svg" width="25"/> JavaScript
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-css-192.png" width="100"/> CSS
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-javascript-192.png" width="100"/> JavaScript
 ### Database:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="30"/> MySQL
 ### Wireframes:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/Balsamiq-logo-resized.jpg" width="25"/> Balsamiq
 ### Code Editors:
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" width="25"/> VS Code
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/pycharm.png" width="25"/> PyCharm
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-vs-code-120.png" width="100"/> VS Code
 
 ### Framework:
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/bootstrap-plain-wordmark.svg" width="25"/> Bootstrap
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/pocoo_flask-icon.svg" width="25"/> Flask
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-bootstrap-office-l-120.png" width="100"/> Bootstrap
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-flask-cute-clipart-120.png" width="100"/> Flask
 
 ### Version Control
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/git-scm-icon.svg" width="25"/> Git
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-git-192.png" width="100"/> Git
 
 ## Example of Web Development Work:
 * Fitness Hall (version I) "Full Stack Python"
