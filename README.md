@@ -19,7 +19,8 @@ http://www.linkedin.com/in/joshua-rosado-olivencia
 joshua06rosado#6354
 ## Skills & Experience 
 ### Languages:
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/python-original.svg" width="25"/> Python
+* <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/swift-og.png" width="25"/> Swift
+* <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/python-original.svg" width="25"/> Python
 ### FrontEnd Dev:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/html5-original-wordmark.svg" width="25"/> HTML 
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/css3-original-wordmark.svg" width="25"/> CSS
