@@ -20,7 +20,7 @@ joshua06rosado#6354
 ## Skills & Experience 
 ### Languages:
 * <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swift-300.png" width="125"/> Swift
-* <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-python-cloud-120.png" width="125"/> Python
+* <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-python-cloud-180.png" width="125"/> Python
 
 ### Framework:
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-bootstrap-office-l-120.png" width="100"/> Bootstrap
