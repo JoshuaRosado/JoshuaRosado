@@ -19,7 +19,7 @@ http://www.linkedin.com/in/joshua-rosado-olivencia
 joshua06rosado#6354
 ## Skills & Experience 
 ### Languages:
-* <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swift-300.png" width="100"/> Swift
+* <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swift-300.png" width="125"/> Swift
 * <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/python-original.svg" width="100"/> Python
 
 ### Framework:
@@ -28,7 +28,7 @@ joshua06rosado#6354
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swiftui-color-hand-drawn-120.png" width="100"/> SwiftUI
 *  
 ### FrontEnd Dev:
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-html-120.png" width="100"/> HTML 
+*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-python-192.png" width="100"/> HTML 
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-css-192.png" width="100"/> CSS
 *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-javascript-192.png" width="100"/> JavaScript
 ### Database:
