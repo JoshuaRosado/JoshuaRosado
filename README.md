@@ -17,7 +17,7 @@ joshua06rosado@gmail.com
 http://www.linkedin.com/in/joshua-rosado-olivencia
 
 ##### Discord:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joshua-rosado-olivencia/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://www.nba.com/)  
 joshua06rosado#6354
 
 <div align="center">
