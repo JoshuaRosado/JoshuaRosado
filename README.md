@@ -1,10 +1,12 @@
-<div align="center">
+<div align="center" padding="20">
   
 
 Welcome! / Bienvenidos!
 My name is Joshua and I am Web and iOS developer.
 I look for a way to translate ideas into apps.
 </div>
+
+
 
 <div align="center">
 
@@ -50,8 +52,8 @@ I look for a way to translate ideas into apps.
   
   ### Languages:
   <div align="center">
-   <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swift-300.png" width="125"/>
-   <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-python-cloud-180.png" width="125"/>
+   <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swift-300.png" width="140"/>
+   <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-python-cloud-180.png" width="140"/>
   </div>
   
   ### Framework:
