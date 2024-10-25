@@ -29,7 +29,9 @@ I look for a way to translate ideas into apps.
 
 
 <div align="center" padding="50">
-  📲 How to reach me: 
+  
+  ### 📲 How to reach me: 
+  
 </div>
 
 <div align="center">
