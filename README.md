@@ -10,7 +10,7 @@ I look for a way to translate ideas into apps.
 
 <div align="center">
 
-## Status
+## Status:
 </div>
 <div align="center">
 * 🧠 I’m currently learning iOS Development.
@@ -46,41 +46,41 @@ I look for a way to translate ideas into apps.
 
 <div align="center">
   
-  #### Skills & Experience 
+  ### Skills & Experience 
   
   
-  ### Languages:
+  ## Languages:
   <div align="center">
    <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swift-300.png" width="140"/>
    <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-python-cloud-180.png" width="140"/>
   </div>
   
-  ### Framework:
+  ## Framework:
   <div align="center">
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-bootstrap-office-l-120.png" width="100"/>
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-flask-cute-clipart-120.png" width="100"/>
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swiftui-color-hand-drawn-120.png" width="100"/>
   </div>
     
-  ### FrontEnd Dev:
+  ## FrontEnd Dev:
   <div align="center">
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-html-120.png" width="100"/>
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-css-192.png" width="100"/>
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-javascript-192.png" width="100"/>
   </div>
     
-  ### Database:
+  ## Database:
   
   <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="100"/>
   
   
-  ### Code Editors:
+  ## Code Editors:
   <div align="center">
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-vs-code-120.png" width="100"/>
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-xcode-gradient-120.png" width="100"/>
   </div>
 
-  ### Version Control
+  ## Version Control
   <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-git-192.png" width="100"/>
 </div>
 
@@ -96,7 +96,7 @@ I look for a way to translate ideas into apps.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaRosado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 
 
