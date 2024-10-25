@@ -14,7 +14,8 @@ I look for a way to translate ideas into apps.
 
 <div align="center">
 * 📲 How to reach me: 
-  div align="center">
+  <div align="center">
+    
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://www.joshua06rosado@gmail.com/)  
     
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joshua-rosado-olivencia/)  
@@ -65,7 +66,16 @@ I look for a way to translate ideas into apps.
 
 
 ## Stats :
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaRosado)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/JoshuaRosado/JoshuaRosado/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaRosado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaRosado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 
