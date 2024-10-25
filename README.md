@@ -10,7 +10,13 @@ I look for a way to translate ideas into apps.
 
 <div align="center">
 
-## Status:
+# Status:
+
+  ## Status 
+
+  ### Status
+  ##### Status
+
 </div>
 <div align="center">
 * 🧠 I’m currently learning iOS Development.
