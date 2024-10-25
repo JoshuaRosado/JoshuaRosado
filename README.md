@@ -24,14 +24,11 @@ I look for a way to translate ideas into apps.
 
 
 
-<div align="center">
-</div>
-<div align="center">
-</div>
 
 
 
-<div align="center">
+
+<div align="center" margin="20">
   📲 How to reach me: 
 </div>
 
