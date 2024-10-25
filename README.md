@@ -5,15 +5,15 @@ My name is Joshua and I am Web and iOS developer.
 I look for a way to translate ideas into apps.
 </div>
 
-<div align="center">
+
 ## Status
 * 🧠 I’m currently learning iOS Development.
 * 💻 I’m currently working on a educational app project. 
 * 👥 I’m looking to collaborate on Projects as a iOS Developer
-</div>
+
 
 <div align="center">
-* 📲 How to reach me: 
+  📲 How to reach me: 
   <div align="center">
     
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://www.joshua06rosado@gmail.com/)  
