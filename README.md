@@ -5,18 +5,31 @@ My name is Joshua and I am Web and iOS developer.
 I look for a way to translate ideas into apps.
 </div>
 
+<div align="center">
 
 ## Status
+</div>
+<div align="center">
 * 🧠 I’m currently learning iOS Development.
+</div>
+  <div align="center">
 * 💻 I’m currently working on a educational app project. 
-* 👥 I’m looking to collaborate on Projects as a iOS Developer
+  </div>
+<div align="center">
+  * 👥 I’m looking to collaborate on Projects as a iOS Developer
+</div>
+
+
+
+
+
 
 
 <div align="center">
   📲 How to reach me: 
 </div>
 
-div align="center">
+<div align="center">
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://www.joshua06rosado@gmail.com/)  
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joshua-rosado-olivencia/)  
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://www.discordapp.com/users/979162047604461588/)  
