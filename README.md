@@ -14,12 +14,12 @@ I look for a way to translate ideas into apps.
 
 <div align="center">
   📲 How to reach me: 
+</div>
 
-    
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://www.joshua06rosado@gmail.com/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joshua-rosado-olivencia/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://www.discordapp.com/users/979162047604461588/)  
-
+div align="center">
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://www.joshua06rosado@gmail.com/)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joshua-rosado-olivencia/)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://www.discordapp.com/users/979162047604461588/)  
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@ I look for a way to translate ideas into apps.
     
   ### Database:
   
-  *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="100"/>
+  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="100"/>
   
   
   ### Code Editors:
@@ -63,10 +63,13 @@ I look for a way to translate ideas into apps.
 </div>
 
 
-## Stats :
+
 
 
 <div align="center">
+  
+  ### Stats :
+  
   <img src="https://github-readme-stats.vercel.app/api?username=JoshuaRosado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaRosado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
