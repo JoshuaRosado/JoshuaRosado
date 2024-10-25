@@ -17,44 +17,49 @@ http://www.linkedin.com/in/joshua-rosado-olivencia
 
 ##### Discord:
 joshua06rosado#6354
-## Skills & Experience 
-### Languages:
-<div align="center">
- <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swift-300.png" width="125"/>
- <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-python-cloud-180.png" width="125"/>
-</div>
 
-### Framework:
 <div align="center">
-  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-bootstrap-office-l-120.png" width="100"/>
-  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-flask-cute-clipart-120.png" width="100"/>
-  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swiftui-color-hand-drawn-120.png" width="100"/>
-</div>
+  ## Skills & Experience 
   
-### FrontEnd Dev:
-<div align="center">
-  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-html-120.png" width="100"/>
-  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-css-192.png" width="100"/>
-  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-javascript-192.png" width="100"/>
-</div>
   
-### Database:
-
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="100"/>
-
-### Code Editors:
-<div align="center">
-  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-vs-code-120.png" width="100"/>
-  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-xcode-gradient-120.png" width="100"/>
-</div>
-
-
-
+  ### Languages:
+  <div align="center">
+   <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swift-300.png" width="125"/>
+   <img src= "https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-python-cloud-180.png" width="125"/>
+  </div>
   
-
-### Version Control
-*  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-git-192.png" width="100"/> Git
-
+  ### Framework:
+  <div align="center">
+    <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-bootstrap-office-l-120.png" width="100"/>
+    <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-flask-cute-clipart-120.png" width="100"/>
+    <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swiftui-color-hand-drawn-120.png" width="100"/>
+  </div>
+    
+  ### FrontEnd Dev:
+  <div align="center">
+    <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-html-120.png" width="100"/>
+    <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-css-192.png" width="100"/>
+    <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-javascript-192.png" width="100"/>
+  </div>
+    
+  ### Database:
+  
+  *  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/mysql-original-wordmark.svg" width="100"/>
+  
+  
+  ### Code Editors:
+  <div align="center">
+    <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-vs-code-120.png" width="100"/>
+    <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-xcode-gradient-120.png" width="100"/>
+  </div>
+  
+  
+  
+    
+  
+  ### Version Control
+  <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-git-192.png" width="100"/>
+</div>
 ## Example of Web Development Work:
 * Fitness Hall (version I) "Full Stack Python"
   Link - https://github.com/JoshuaRosado/fitness_hall.git 
