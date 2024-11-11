@@ -88,7 +88,7 @@ I look for a way to translate ideas into apps.
 </div>
 
 
-
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnB2N2cxOGExMGlmNHVra3JzeHYwZWl4YnpkbWk5d20xZzRobDc5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NCnSYn16YAeElBR4NL/giphy.gif
 
 
 <div align="center">
