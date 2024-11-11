@@ -85,7 +85,7 @@ I look for a way to translate ideas into apps.
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-swiftui-color-hand-drawn-120.png" width="100"/>
   </div>
     
-  #### FrontEnd Dev:
+  #### FrontEnd:
   <div align="center">
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-html-120.png" width="100"/>
     <img src="https://github.com/JoshuaRosado/JoshuaRosado/blob/main/icons8-css-192.png" width="100"/>
