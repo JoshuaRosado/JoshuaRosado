@@ -34,13 +34,13 @@ I look for a way to translate ideas into apps.
 <div align="center" padding="20">
 
 #### iOS Project
-
+##### Edutainment
 <div>
 
-  <img src="https://github.com/user-attachments/assets/c482fe16-2049-4448-bca1-28949b4af382" width="25px"/>
-  ![qeRpZTZqsvmFvBP1Dh](https://github.com/user-attachments/assets/c482fe16-2049-4448-bca1-28949b4af382)
-    ![6BN8pXlffcvUnQKUST](https://github.com/user-attachments/assets/30585232-0362-4974-bb8e-87099ac81e07)
-  ![robsdxLCOV6cjE0wSw](https://github.com/user-attachments/assets/94ad43b0-f6aa-4c2c-a5bf-52cb3af829ae)
+  <img src="https://github.com/user-attachments/assets/c482fe16-2049-4448-bca1-28949b4af382" width="150px"/>
+  <img src="https://github.com/user-attachments/assets/30585232-0362-4974-bb8e-87099ac81e07" width="150px"/>
+  <img src="https://github.com/user-attachments/assets/94ad43b0-f6aa-4c2c-a5bf-52cb3af829ae" width="150px"/>
+  
 
 
 </div>
