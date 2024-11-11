@@ -33,12 +33,13 @@ I look for a way to translate ideas into apps.
 
 <div align="center" padding="20">
 
-### Projects preview
-
-#### iOS
+#### iOS Project
 
 <div>
-  ![edutainment3](https://github.com/user-attachments/assets/509487b8-42a6-443f-bb91-042001bb1076)
+  ![qeRpZTZqsvmFvBP1Dh](https://github.com/user-attachments/assets/c482fe16-2049-4448-bca1-28949b4af382)
+![6BN8pXlffcvUnQKUST](https://github.com/user-attachments/assets/30585232-0362-4974-bb8e-87099ac81e07)
+![robsdxLCOV6cjE0wSw](https://github.com/user-attachments/assets/94ad43b0-f6aa-4c2c-a5bf-52cb3af829ae)
+
 
 </div>
 
