@@ -7,12 +7,14 @@ My name is Joshua and I am Web and iOS developer.
 I look for a way to translate ideas into apps.
 </div>
 
-![giphy](https://github.com/user-attachments/assets/c3180200-d79c-4bb9-ab27-c1450d1b8d4d)
 
 
 
 
 <div align="center">
+
+
+
 
 ### Status:
 
@@ -26,6 +28,18 @@ I look for a way to translate ideas into apps.
   </div>
 <div align="center">
   * 👥 I’m looking to collaborate on Projects as a iOS Developer
+</div>
+
+
+<div align="center" padding="20">
+
+### Projects preview
+
+#### iOS
+
+<div>
+  ![edutainment3](https://github.com/user-attachments/assets/509487b8-42a6-443f-bb91-042001bb1076)
+
 </div>
 
 
