@@ -6,6 +6,7 @@
 My name is Joshua and I am Web and iOS developer.
 I look for a way to translate ideas into apps.
 </div>
+![giphy](https://github.com/user-attachments/assets/4c1bc4cf-a0f1-4b94-8ef0-31d3c5d8d34e)
 
 
 
@@ -88,7 +89,7 @@ I look for a way to translate ideas into apps.
 </div>
 
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnB2N2cxOGExMGlmNHVra3JzeHYwZWl4YnpkbWk5d20xZzRobDc5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NCnSYn16YAeElBR4NL/giphy.gif
+
 
 
 <div align="center">
