@@ -53,11 +53,12 @@ I look for a way to translate ideas into apps.
 <div>
 
 <div>
+  ##### Mobile View
   <img src="https://github.com/user-attachments/assets/ebd63981-d8f4-4b1d-b3de-c2de8c248d1a" width="150px"/>
+  <img src="https://github.com/user-attachments/assets/a0539805-56e7-4e7f-8137-6136757aadef"  width="325px"/>
 </div>
 
   <img src="https://github.com/user-attachments/assets/165bd150-201b-4c09-b2d6-a8cfef0dd95e" width="325px"/>
-  <img src="https://github.com/user-attachments/assets/a0539805-56e7-4e7f-8137-6136757aadef"  width="325px"/>
   
 </div>
 
