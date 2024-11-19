@@ -3,7 +3,7 @@
 
 ## Bienvenidos to my Github
 
-My name is Joshua and I am iOS developer and also have web development skills. I look for a way to translate ideas into apps.
+My name is Joshua and I'm a iOS developer. I look for a way to translate ideas into apps.
 </div>
 
 
