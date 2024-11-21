@@ -1,7 +1,7 @@
 <div align="center" padding="20">
   
 
-## Bienvenidos to my Github
+## Bienvenidos/ Welcome
 
 My name is Joshua and I'm a iOS developer. I look for a way to translate ideas into apps.
 </div>
