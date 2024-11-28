@@ -4,6 +4,7 @@
 ## Bienvenidos/ Welcome
 
 My name is Joshua and I'm a iOS developer. I look for ways to translate ideas into apps.
+I'm located in the Gulf Coast US.
 </div>
 
 
