@@ -24,7 +24,7 @@ I'm located in the Gulf Coast US.
 * 🧠 I’m currently learning iOS Development.
 </div>
   <div align="center">
-* 💻 I’m currently working on iExpense app project. 
+* 💻 I’m currently working on Moonshot app project. 
   </div>
 <div align="center">
   * 👥 I’m looking to collaborate on Projects as a iOS Developer
