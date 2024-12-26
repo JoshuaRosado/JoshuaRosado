@@ -23,7 +23,7 @@ My name is Joshua and I'm a iOS developer. I look for ways to translate ideas in
 * 🧠 I’m currently learning iOS Development.
 </div>
   <div align="center">
-* 💻 I’m currently working on Updating MoonShot app project. 
+* 💻 I’m currently working on Milestone app project from 100 days of SwiftUI.. 
   </div>
 <div align="center">
   * 👥 I’m looking to collaborate on Projects as a iOS Developer
