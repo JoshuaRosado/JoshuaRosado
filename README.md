@@ -20,13 +20,13 @@ My name is Joshua and I'm a iOS developer. I look for ways to convert ideas into
 
 </div>
 <div align="center">
-* 🧠 I’m currently learning iOS Development.
+* 🧠 I’m currently learning iOS Development with SwiftUI.
 </div>
   <div align="center">
 * 💻 I’m currently working on Habit-Tracking project app. 
   </div>
 <div align="center">
-  * 👥 I’m looking to collaborate on Projects as a iOS Developer
+  * 👥 I’m looking to collaborate on Projects as a Junior iOS Developer
 </div>
 
 
