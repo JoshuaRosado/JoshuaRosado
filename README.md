@@ -3,7 +3,7 @@
 
 ## Bienvenidos/ Welcome
 
-My name is Joshua and I'm a iOS developer. I look for ways to convert ideas into apps.
+My name is Joshua and I'm a iOS developer. I look for ways to convert ideas into project apps.
 </div>
 
 
