@@ -23,7 +23,7 @@ My name is Joshua and I'm a iOS developer. I look for ways to convert ideas into
 * 🧠 I’m currently learning iOS Development with SwiftUI.
 </div>
   <div align="center">
-* 💻 I currently working on CupcakeCorner project app.
+* 💻 I currently working on CupcakeCorner project app challenges.
   </div>
 <div align="center">
   * 👥 I’m looking to collaborate on Projects as a Junior iOS Developer
