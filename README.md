@@ -20,7 +20,7 @@ My name is Joshua and I'm a iOS developer. I look for ways to convert ideas into
 
 </div>
 <div align="center">
-* 🧠 I’m currently learning iOS Development(SwiftUI).
+* 🧠 I’m currently learning iOS Development with SwiftUI.
 </div>
   <div align="center">
 * 💻 I currently working on StudySpace app.
