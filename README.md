@@ -1,7 +1,7 @@
 <div align="center" padding="20">
   
 
-## Bienvenidos/ Welcome
+## Welcome
 
 My name is Joshua and I'm a iOS developer. I look for ways to convert ideas into apps.
 </div>
