@@ -23,7 +23,7 @@ My name is Joshua and I'm a iOS developer. I look for ways to convert ideas into
 * 🧠 I’m currently learning iOS Development with SwiftUI.
 </div>
   <div align="center">
-* 💻 I am currently working on a fitness app named KazokuFit .
+* 💻 I am currently working on a project called BucketList.
   </div>
 <div align="center">
   * 👥 I’m looking to collaborate on Projects as a iOS Developer
